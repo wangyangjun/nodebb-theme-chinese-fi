@@ -1,0 +1,7 @@
+{
+	"id": "nodebb-theme-chinese-fi",
+	"staticDirs": {
+		"css": "public/css",
+		"lib": "public/lib"
+	}
+}
