@@ -1,0 +1,31 @@
+{
+  "author": {
+    "email": "yangjun.wang90@gmail.com",
+    "name": "Yangjun Wang"
+  },
+  "bugs": {
+    "url": "https://github.com/wangyangjun/nodebb-theme-chinese-fi/issues"
+  },
+  "dependencies": {},
+  "description": "Chinese.Fi Theme for NodeBB",
+  "devDependencies": {},
+  "directories": {},
+  "homepage": "https://github.com/wangyangjun/nodebb-theme-chinese-fi#readme",
+  "keywords": [
+    "nodebb",
+    "chinese.fi",
+    "theme"
+  ],
+  "license": "BSD-2-Clause",
+  "main": "theme.less",
+  "name": "nodebb-theme-chinese-fi",
+  "nbbpm": {
+    "compatibility": "^1.0.0 || ^1.1.0 || ^1.2.0 || ^1.3.0"
+  },
+  "optionalDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangyangjun/nodebb-theme-chinese-fi.git"
+  },
+  "version": "1.0.0"
+}
