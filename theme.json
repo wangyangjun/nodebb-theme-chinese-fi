@@ -1,0 +1,8 @@
+{
+    "id": "nodebb-theme-chinese-fi",
+    "name": "ChineseFi",
+    "description": "A theme based on nodebb theme lavender",
+    "url": "https://github.com/wangyangjun/nodebb-theme-chinese-fi",
+    "screenshot": "screenshot.png",
+    "baseTheme": "nodebb-theme-persona"
+}
